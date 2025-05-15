@@ -100,7 +100,31 @@
       <option name="project" value="LOCAL" />
       <updated>1747311342971</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="first commit1">
+      <option name="closed" value="true" />
+      <created>1747311703705</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747311703705</updated>
+    </task>
+    <task id="LOCAL-00006" summary="first commit1">
+      <option name="closed" value="true" />
+      <created>1747312098952</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747312098952</updated>
+    </task>
+    <task id="LOCAL-00007" summary="first commit1">
+      <option name="closed" value="true" />
+      <created>1747312111505</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1747312111505</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,8 +152,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <MESSAGE value="1" />
     <MESSAGE value="firs" />
+    <MESSAGE value="1" />
     <MESSAGE value="first commit1" />
     <option name="LAST_COMMIT_MESSAGE" value="first commit1" />
   </component>
