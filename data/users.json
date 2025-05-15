@@ -1,0 +1,32 @@
+[
+    {
+        "user_id": 1611516990,
+        "name": "тбб"
+    },
+    {
+        "user_id": 1611516990,
+        "name": "/actions"
+    },
+    {
+        "user_id": 1611516990,
+        "name": "/propose"
+    },
+    {
+        "user_id": 1611516990,
+        "name": "/mydetails"
+    },
+    {
+        "name": "карим",
+        "city": "Казань",
+        "grade": "10",
+        "username": "shelpess",
+        "user_id": 7192158675
+    },
+    {
+        "name": "акрам",
+        "city": "Казань",
+        "grade": "7г",
+        "username": "sigma",
+        "user_id": 1285845438
+    }
+]
