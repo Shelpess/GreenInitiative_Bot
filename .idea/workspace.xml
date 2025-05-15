@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce1ee7be-a7ec-4ac7-a2e1-bede3697dfe5" name="Changes" comment="first commit1" />
+    <list default="true" id="ce1ee7be-a7ec-4ac7-a2e1-bede3697dfe5" name="Changes" comment="Y" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +18,10 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_COMMON_BRANCH" value="main" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -33,7 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "main2",
     "last_opened_file_path": "C:/Users/Public/проект"
   }
 }]]></component>
@@ -130,7 +133,39 @@
       <option name="project" value="LOCAL" />
       <updated>1747312111505</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="r">
+      <option name="closed" value="true" />
+      <created>1747312962293</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1747312962294</updated>
+    </task>
+    <task id="LOCAL-00009" summary="U">
+      <option name="closed" value="true" />
+      <created>1747313254843</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1747313254843</updated>
+    </task>
+    <task id="LOCAL-00010" summary="U">
+      <option name="closed" value="true" />
+      <created>1747313288990</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1747313288990</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Y">
+      <option name="closed" value="true" />
+      <created>1747313534567</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1747313534567</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,6 +196,10 @@
     <MESSAGE value="firs" />
     <MESSAGE value="1" />
     <MESSAGE value="first commit1" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit1" />
+    <MESSAGE value="r" />
+    <MESSAGE value="Delete project.py" />
+    <MESSAGE value="U" />
+    <MESSAGE value="Y" />
+    <option name="LAST_COMMIT_MESSAGE" value="Y" />
   </component>
 </project>

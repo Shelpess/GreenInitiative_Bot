@@ -177,6 +177,7 @@ def process_action_title(message):
     bot.send_message(message.chat.id, "🗓️ Введите дату проведения акции в формате YYYY-MM-DD:")
     user_states[user_id]["state"] = "waiting_for_action_date"
 
+
 @bot.message_handler(func=lambda message: user_states.get(message.from_user.id, {}).get("state") == "waiting_for_action_date", content_types=['text'])
 def process_action_date(message):
     user_id = message.from_user.id
