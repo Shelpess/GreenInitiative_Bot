@@ -1,0 +1,859 @@
+2025-05-14 00:09:45,593 - INFO - Запуск веб-сервера...
+2025-05-14 00:09:45,653 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 00:09:45,653 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 00:09:45,655 - INFO -  * Restarting with stat
+2025-05-14 00:09:46,183 - INFO - Запуск веб-сервера...
+2025-05-14 00:09:46,218 - WARNING -  * Debugger is active!
+2025-05-14 00:09:46,224 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 00:09:54,992 - INFO - 127.0.0.1 - - [14/May/2025 00:09:54] "[35m[1mPOST /users HTTP/1.1[0m" 201 -
+2025-05-14 00:09:55,010 - INFO - 127.0.0.1 - - [14/May/2025 00:09:55] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 00:10:05,344 - INFO - 127.0.0.1 - - [14/May/2025 00:10:05] "[35m[1mPOST /users HTTP/1.1[0m" 201 -
+2025-05-14 00:10:05,365 - INFO - 127.0.0.1 - - [14/May/2025 00:10:05] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 00:10:12,525 - INFO - 127.0.0.1 - - [14/May/2025 00:10:12] "[35m[1mPOST /users HTTP/1.1[0m" 201 -
+2025-05-14 00:10:12,548 - INFO - 127.0.0.1 - - [14/May/2025 00:10:12] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 00:10:18,936 - INFO - 127.0.0.1 - - [14/May/2025 00:10:18] "[35m[1mPOST /users HTTP/1.1[0m" 201 -
+2025-05-14 00:10:18,967 - INFO - 127.0.0.1 - - [14/May/2025 00:10:18] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 00:12:39,679 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 00:12:39,872 - INFO -  * Restarting with stat
+2025-05-14 00:12:41,580 - INFO - Запуск веб-сервера...
+2025-05-14 00:12:41,660 - WARNING -  * Debugger is active!
+2025-05-14 00:12:41,668 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 00:12:58,166 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\web_server.py', reloading
+2025-05-14 00:12:58,317 - INFO -  * Restarting with stat
+2025-05-14 00:12:59,408 - INFO - Запуск веб-сервера...
+2025-05-14 00:12:59,441 - WARNING -  * Debugger is active!
+2025-05-14 00:12:59,446 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 00:13:38,356 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\utils.py', reloading
+2025-05-14 00:13:38,470 - INFO -  * Restarting with stat
+2025-05-14 00:13:39,180 - INFO - Запуск веб-сервера...
+2025-05-14 00:13:39,229 - WARNING -  * Debugger is active!
+2025-05-14 00:13:39,237 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 00:14:24,717 - INFO - Запуск веб-сервера...
+2025-05-14 00:14:24,767 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 00:14:24,767 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 00:14:24,769 - INFO -  * Restarting with stat
+2025-05-14 00:14:25,294 - INFO - Запуск веб-сервера...
+2025-05-14 00:14:25,328 - WARNING -  * Debugger is active!
+2025-05-14 00:14:25,333 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 00:14:54,008 - INFO - 127.0.0.1 - - [14/May/2025 00:14:54] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 00:14:57,380 - INFO - 127.0.0.1 - - [14/May/2025 00:14:57] "GET /actions HTTP/1.1" 200 -
+2025-05-14 00:15:06,955 - INFO - 127.0.0.1 - - [14/May/2025 00:15:06] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 00:15:15,309 - INFO - 127.0.0.1 - - [14/May/2025 00:15:15] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 00:15:22,072 - INFO - 127.0.0.1 - - [14/May/2025 00:15:22] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 00:15:24,924 - INFO - 127.0.0.1 - - [14/May/2025 00:15:24] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 00:15:28,947 - INFO - 127.0.0.1 - - [14/May/2025 00:15:28] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 00:15:38,725 - INFO - 127.0.0.1 - - [14/May/2025 00:15:38] "GET /actions HTTP/1.1" 200 -
+2025-05-14 00:23:50,462 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 00:23:50,579 - INFO -  * Restarting with stat
+2025-05-14 00:23:51,878 - INFO - Запуск веб-сервера...
+2025-05-14 00:23:51,936 - WARNING -  * Debugger is active!
+2025-05-14 00:23:51,944 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 00:24:02,262 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\web_server.py', reloading
+2025-05-14 00:24:02,335 - INFO -  * Restarting with stat
+2025-05-14 00:24:03,283 - INFO - Запуск веб-сервера...
+2025-05-14 00:24:03,350 - WARNING -  * Debugger is active!
+2025-05-14 00:24:03,358 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 00:24:23,162 - INFO - 127.0.0.1 - - [14/May/2025 00:24:23] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 00:24:25,446 - INFO - 127.0.0.1 - - [14/May/2025 00:24:25] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 00:24:31,399 - INFO - 127.0.0.1 - - [14/May/2025 00:24:31] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 00:25:01,819 - INFO - Запуск веб-сервера...
+2025-05-14 00:25:01,873 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 00:25:01,874 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 00:25:01,876 - INFO -  * Restarting with stat
+2025-05-14 00:25:02,417 - INFO - Запуск веб-сервера...
+2025-05-14 00:25:02,450 - WARNING -  * Debugger is active!
+2025-05-14 00:25:02,455 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 00:25:27,157 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\web_server.py', reloading
+2025-05-14 00:25:27,246 - INFO -  * Restarting with stat
+2025-05-14 00:25:28,231 - INFO - Запуск веб-сервера...
+2025-05-14 00:25:28,316 - WARNING -  * Debugger is active!
+2025-05-14 00:25:28,325 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 00:25:39,751 - INFO - Запуск веб-сервера...
+2025-05-14 00:25:39,815 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 00:25:39,815 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 00:25:39,817 - INFO -  * Restarting with stat
+2025-05-14 00:25:40,312 - INFO - Запуск веб-сервера...
+2025-05-14 00:25:40,346 - WARNING -  * Debugger is active!
+2025-05-14 00:25:40,351 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 00:25:53,806 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\web_server.py', reloading
+2025-05-14 00:25:53,888 - INFO -  * Restarting with stat
+2025-05-14 00:25:54,550 - INFO - Запуск веб-сервера...
+2025-05-14 00:25:54,584 - WARNING -  * Debugger is active!
+2025-05-14 00:25:54,588 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 00:26:31,588 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 00:26:35,223 - INFO - Запуск веб-сервера...
+2025-05-14 00:26:35,301 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 00:26:35,301 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 00:26:35,304 - INFO -  * Restarting with stat
+2025-05-14 00:26:35,903 - INFO - Запуск веб-сервера...
+2025-05-14 00:26:35,934 - WARNING -  * Debugger is active!
+2025-05-14 00:26:35,939 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 00:26:52,997 - INFO - Запуск веб-сервера...
+2025-05-14 00:26:53,056 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 00:26:53,056 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 00:26:53,058 - INFO -  * Restarting with stat
+2025-05-14 00:26:53,567 - INFO - Запуск веб-сервера...
+2025-05-14 00:26:53,603 - WARNING -  * Debugger is active!
+2025-05-14 00:26:53,609 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 00:27:39,030 - INFO - 127.0.0.1 - - [14/May/2025 00:27:39] "GET /actions HTTP/1.1" 200 -
+2025-05-14 00:27:39,033 - INFO - 127.0.0.1 - - [14/May/2025 00:27:39] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 00:27:39,493 - INFO - 127.0.0.1 - - [14/May/2025 00:27:39] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 00:27:39,597 - INFO - 127.0.0.1 - - [14/May/2025 00:27:39] "GET /actions HTTP/1.1" 200 -
+2025-05-14 00:27:39,954 - INFO - 127.0.0.1 - - [14/May/2025 00:27:39] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 00:27:40,216 - INFO - 127.0.0.1 - - [14/May/2025 00:27:40] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 00:27:40,228 - INFO - 127.0.0.1 - - [14/May/2025 00:27:40] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 00:27:49,892 - INFO - 127.0.0.1 - - [14/May/2025 00:27:49] "GET /actions HTTP/1.1" 200 -
+2025-05-14 00:27:55,876 - INFO - 127.0.0.1 - - [14/May/2025 00:27:55] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 00:27:58,023 - INFO - 127.0.0.1 - - [14/May/2025 00:27:58] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 00:28:13,428 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\web_server.py', reloading
+2025-05-14 00:28:13,780 - INFO -  * Restarting with stat
+2025-05-14 00:28:14,785 - INFO - Запуск веб-сервера...
+2025-05-14 00:28:14,851 - WARNING -  * Debugger is active!
+2025-05-14 00:28:14,860 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 00:28:25,544 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 00:28:25,668 - INFO -  * Restarting with stat
+2025-05-14 00:28:26,738 - INFO - Запуск веб-сервера...
+2025-05-14 00:28:26,781 - WARNING -  * Debugger is active!
+2025-05-14 00:28:26,786 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 00:28:40,519 - INFO - Запуск веб-сервера...
+2025-05-14 00:28:40,570 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 00:28:40,571 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 00:28:40,574 - INFO -  * Restarting with stat
+2025-05-14 00:28:41,226 - INFO - Запуск веб-сервера...
+2025-05-14 00:28:41,270 - WARNING -  * Debugger is active!
+2025-05-14 00:28:41,278 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 00:28:56,292 - INFO - 127.0.0.1 - - [14/May/2025 00:28:56] "GET /actions HTTP/1.1" 200 -
+2025-05-14 00:29:07,341 - INFO - 127.0.0.1 - - [14/May/2025 00:29:07] "GET /actions HTTP/1.1" 200 -
+2025-05-14 00:29:48,705 - INFO - 127.0.0.1 - - [14/May/2025 00:29:48] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 00:30:04,110 - INFO - 127.0.0.1 - - [14/May/2025 00:30:04] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 00:30:08,281 - INFO - 127.0.0.1 - - [14/May/2025 00:30:08] "GET /statistics HTTP/1.1" 200 -
+2025-05-14 15:34:49,654 - INFO - Запуск веб-сервера...
+2025-05-14 15:34:49,727 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 15:34:49,727 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 15:34:49,730 - INFO -  * Restarting with stat
+2025-05-14 15:34:50,296 - INFO - Запуск веб-сервера...
+2025-05-14 15:34:50,331 - WARNING -  * Debugger is active!
+2025-05-14 15:34:50,336 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 15:35:12,277 - INFO - 127.0.0.1 - - [14/May/2025 15:35:12] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 15:35:14,717 - INFO - 127.0.0.1 - - [14/May/2025 15:35:14] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 15:35:24,420 - INFO - 127.0.0.1 - - [14/May/2025 15:35:24] "GET /actions HTTP/1.1" 200 -
+2025-05-14 15:35:49,689 - INFO - 127.0.0.1 - - [14/May/2025 15:35:49] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 15:35:58,805 - INFO - 127.0.0.1 - - [14/May/2025 15:35:58] "GET /actions HTTP/1.1" 200 -
+2025-05-14 15:36:08,672 - INFO - 127.0.0.1 - - [14/May/2025 15:36:08] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 15:36:14,715 - INFO - 127.0.0.1 - - [14/May/2025 15:36:14] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 15:36:17,035 - INFO - 127.0.0.1 - - [14/May/2025 15:36:17] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 15:36:18,671 - INFO - 127.0.0.1 - - [14/May/2025 15:36:18] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 15:36:23,768 - INFO - 127.0.0.1 - - [14/May/2025 15:36:23] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 15:36:25,477 - INFO - 127.0.0.1 - - [14/May/2025 15:36:25] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 15:36:27,484 - INFO - 127.0.0.1 - - [14/May/2025 15:36:27] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 15:36:40,038 - INFO - 127.0.0.1 - - [14/May/2025 15:36:40] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 15:37:34,535 - INFO - 127.0.0.1 - - [14/May/2025 15:37:34] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 15:37:37,539 - INFO - 127.0.0.1 - - [14/May/2025 15:37:37] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 15:37:39,225 - INFO - 127.0.0.1 - - [14/May/2025 15:37:39] "GET /actions HTTP/1.1" 200 -
+2025-05-14 15:38:18,903 - INFO - Запуск веб-сервера...
+2025-05-14 15:38:18,978 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 15:38:18,979 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 15:38:18,982 - INFO -  * Restarting with stat
+2025-05-14 15:38:19,776 - INFO - Запуск веб-сервера...
+2025-05-14 15:38:19,885 - WARNING -  * Debugger is active!
+2025-05-14 15:38:19,895 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 15:39:16,239 - INFO - 127.0.0.1 - - [14/May/2025 15:39:16] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 15:39:21,329 - INFO - 127.0.0.1 - - [14/May/2025 15:39:21] "GET /actions HTTP/1.1" 200 -
+2025-05-14 15:39:31,126 - INFO - 127.0.0.1 - - [14/May/2025 15:39:31] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 15:39:34,754 - INFO - 127.0.0.1 - - [14/May/2025 15:39:34] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 15:39:36,237 - INFO - 127.0.0.1 - - [14/May/2025 15:39:36] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 15:39:39,170 - INFO - 127.0.0.1 - - [14/May/2025 15:39:39] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 15:39:41,243 - INFO - 127.0.0.1 - - [14/May/2025 15:39:41] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 15:40:15,555 - INFO - 127.0.0.1 - - [14/May/2025 15:40:15] "GET /actions HTTP/1.1" 200 -
+2025-05-14 15:40:18,151 - INFO - 127.0.0.1 - - [14/May/2025 15:40:18] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 15:42:24,479 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 15:42:24,641 - INFO -  * Restarting with stat
+2025-05-14 15:42:25,908 - INFO - Запуск веб-сервера...
+2025-05-14 15:42:25,990 - WARNING -  * Debugger is active!
+2025-05-14 15:42:26,001 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 15:42:40,748 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\web_server.py', reloading
+2025-05-14 15:42:40,845 - INFO -  * Restarting with stat
+2025-05-14 15:42:41,733 - INFO - Запуск веб-сервера...
+2025-05-14 15:42:41,826 - WARNING -  * Debugger is active!
+2025-05-14 15:42:41,835 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 15:43:03,244 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\utils.py', reloading
+2025-05-14 15:43:03,922 - INFO -  * Restarting with stat
+2025-05-14 15:43:05,346 - INFO - Запуск веб-сервера...
+2025-05-14 15:43:05,399 - WARNING -  * Debugger is active!
+2025-05-14 15:43:05,407 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 15:43:23,619 - INFO - Запуск веб-сервера...
+2025-05-14 15:43:23,674 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 15:43:23,674 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 15:43:23,678 - INFO -  * Restarting with stat
+2025-05-14 15:43:24,237 - INFO - Запуск веб-сервера...
+2025-05-14 15:43:24,295 - WARNING -  * Debugger is active!
+2025-05-14 15:43:24,304 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 15:44:09,979 - INFO - 127.0.0.1 - - [14/May/2025 15:44:09] "[33mGET /users/7192158675 HTTP/1.1[0m" 404 -
+2025-05-14 15:44:28,725 - INFO - 127.0.0.1 - - [14/May/2025 15:44:28] "GET /users/check_username/shelpess HTTP/1.1" 200 -
+2025-05-14 15:44:28,731 - INFO - 127.0.0.1 - - [14/May/2025 15:44:28] "[35m[1mPOST /users HTTP/1.1[0m" 201 -
+2025-05-14 15:44:32,187 - INFO - 127.0.0.1 - - [14/May/2025 15:44:32] "GET /actions HTTP/1.1" 200 -
+2025-05-14 15:44:42,609 - INFO - 127.0.0.1 - - [14/May/2025 15:44:42] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 15:44:46,123 - INFO - 127.0.0.1 - - [14/May/2025 15:44:46] "GET /actions HTTP/1.1" 200 -
+2025-05-14 15:44:51,334 - INFO - 127.0.0.1 - - [14/May/2025 15:44:51] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 15:44:53,163 - INFO - 127.0.0.1 - - [14/May/2025 15:44:53] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 15:44:56,750 - INFO - 127.0.0.1 - - [14/May/2025 15:44:56] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 15:44:58,710 - INFO - 127.0.0.1 - - [14/May/2025 15:44:58] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 15:44:59,880 - INFO - 127.0.0.1 - - [14/May/2025 15:44:59] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 15:45:01,029 - INFO - 127.0.0.1 - - [14/May/2025 15:45:01] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 15:45:03,912 - INFO - 127.0.0.1 - - [14/May/2025 15:45:03] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 15:45:06,450 - INFO - 127.0.0.1 - - [14/May/2025 15:45:06] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 15:46:00,806 - INFO - 127.0.0.1 - - [14/May/2025 15:46:00] "GET /actions HTTP/1.1" 200 -
+2025-05-14 15:46:11,524 - INFO - 127.0.0.1 - - [14/May/2025 15:46:11] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 15:46:17,395 - INFO - 127.0.0.1 - - [14/May/2025 15:46:17] "GET /statistics HTTP/1.1" 200 -
+2025-05-14 15:46:43,559 - INFO - 127.0.0.1 - - [14/May/2025 15:46:43] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 15:46:48,068 - INFO - 127.0.0.1 - - [14/May/2025 15:46:48] "GET /statistics HTTP/1.1" 200 -
+2025-05-14 15:47:08,464 - INFO - 127.0.0.1 - - [14/May/2025 15:47:08] "GET /statistics HTTP/1.1" 200 -
+2025-05-14 15:47:18,445 - INFO - 127.0.0.1 - - [14/May/2025 15:47:18] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 15:47:19,975 - INFO - 127.0.0.1 - - [14/May/2025 15:47:19] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 15:47:21,944 - INFO - 127.0.0.1 - - [14/May/2025 15:47:21] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 15:47:26,228 - INFO - 127.0.0.1 - - [14/May/2025 15:47:26] "GET /actions HTTP/1.1" 200 -
+2025-05-14 15:52:19,850 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 15:52:19,947 - INFO -  * Restarting with stat
+2025-05-14 15:52:20,580 - INFO - Запуск веб-сервера...
+2025-05-14 15:52:20,612 - WARNING -  * Debugger is active!
+2025-05-14 15:52:20,618 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 15:52:43,041 - INFO - Запуск веб-сервера...
+2025-05-14 15:52:43,090 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 15:52:43,090 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 15:52:43,092 - INFO -  * Restarting with stat
+2025-05-14 15:52:43,586 - INFO - Запуск веб-сервера...
+2025-05-14 15:52:43,616 - WARNING -  * Debugger is active!
+2025-05-14 15:52:43,621 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 15:52:55,472 - INFO - Запуск веб-сервера...
+2025-05-14 15:52:55,521 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 15:52:55,521 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 15:52:55,523 - INFO -  * Restarting with stat
+2025-05-14 15:52:56,001 - INFO - Запуск веб-сервера...
+2025-05-14 15:52:56,032 - WARNING -  * Debugger is active!
+2025-05-14 15:52:56,036 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 15:53:27,790 - INFO - 127.0.0.1 - - [14/May/2025 15:53:27] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 15:53:31,781 - INFO - 127.0.0.1 - - [14/May/2025 15:53:31] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 15:53:31,785 - INFO - 127.0.0.1 - - [14/May/2025 15:53:31] "GET /actions HTTP/1.1" 200 -
+2025-05-14 15:54:02,634 - INFO - Запуск веб-сервера...
+2025-05-14 15:54:02,683 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 15:54:02,683 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 15:54:02,686 - INFO -  * Restarting with stat
+2025-05-14 15:54:03,186 - INFO - Запуск веб-сервера...
+2025-05-14 15:54:03,216 - WARNING -  * Debugger is active!
+2025-05-14 15:54:03,220 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 15:54:20,075 - INFO - Запуск веб-сервера...
+2025-05-14 15:54:20,124 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 15:54:20,124 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 15:54:20,127 - INFO -  * Restarting with stat
+2025-05-14 15:54:20,611 - INFO - Запуск веб-сервера...
+2025-05-14 15:54:20,641 - WARNING -  * Debugger is active!
+2025-05-14 15:54:20,646 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 15:54:42,286 - INFO - Запуск веб-сервера...
+2025-05-14 15:54:42,338 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 15:54:42,338 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 15:54:42,340 - INFO -  * Restarting with stat
+2025-05-14 15:54:42,810 - INFO - Запуск веб-сервера...
+2025-05-14 15:54:42,843 - WARNING -  * Debugger is active!
+2025-05-14 15:54:42,848 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 15:54:55,867 - INFO - 127.0.0.1 - - [14/May/2025 15:54:55] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 15:55:07,271 - INFO - 127.0.0.1 - - [14/May/2025 15:55:07] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 15:55:09,588 - INFO - 127.0.0.1 - - [14/May/2025 15:55:09] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 15:55:09,592 - INFO - 127.0.0.1 - - [14/May/2025 15:55:09] "GET /actions HTTP/1.1" 200 -
+2025-05-14 15:56:15,278 - INFO - 127.0.0.1 - - [14/May/2025 15:56:15] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 15:56:15,282 - INFO - 127.0.0.1 - - [14/May/2025 15:56:15] "GET /actions HTTP/1.1" 200 -
+2025-05-14 15:57:19,105 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 15:57:19,161 - INFO -  * Restarting with stat
+2025-05-14 15:57:21,436 - INFO - Запуск веб-сервера...
+2025-05-14 15:57:21,511 - WARNING -  * Debugger is active!
+2025-05-14 15:57:21,519 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 15:57:47,111 - INFO - Запуск веб-сервера...
+2025-05-14 15:57:47,161 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 15:57:47,161 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 15:57:47,163 - INFO -  * Restarting with stat
+2025-05-14 15:57:47,660 - INFO - Запуск веб-сервера...
+2025-05-14 15:57:47,693 - WARNING -  * Debugger is active!
+2025-05-14 15:57:47,698 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 15:58:21,013 - INFO - 127.0.0.1 - - [14/May/2025 15:58:21] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 15:58:23,163 - INFO - 127.0.0.1 - - [14/May/2025 15:58:23] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 15:58:23,168 - INFO - 127.0.0.1 - - [14/May/2025 15:58:23] "GET /actions HTTP/1.1" 200 -
+2025-05-14 16:00:16,286 - INFO - 127.0.0.1 - - [14/May/2025 16:00:16] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 16:00:27,526 - INFO - 127.0.0.1 - - [14/May/2025 16:00:27] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 16:01:23,312 - INFO - 127.0.0.1 - - [14/May/2025 16:01:23] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 16:01:25,166 - INFO - 127.0.0.1 - - [14/May/2025 16:01:25] "GET /statistics HTTP/1.1" 200 -
+2025-05-14 16:01:28,963 - INFO - 127.0.0.1 - - [14/May/2025 16:01:28] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 16:03:03,473 - INFO - 127.0.0.1 - - [14/May/2025 16:03:03] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 16:06:17,949 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 16:06:18,023 - INFO -  * Restarting with stat
+2025-05-14 16:06:18,701 - INFO - Запуск веб-сервера...
+2025-05-14 16:06:18,734 - WARNING -  * Debugger is active!
+2025-05-14 16:06:18,739 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:06:39,296 - INFO - 127.0.0.1 - - [14/May/2025 16:06:39] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 16:07:42,240 - INFO - Запуск веб-сервера...
+2025-05-14 16:07:42,287 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 16:07:42,287 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 16:07:42,289 - INFO -  * Restarting with stat
+2025-05-14 16:07:42,775 - INFO - Запуск веб-сервера...
+2025-05-14 16:07:42,807 - WARNING -  * Debugger is active!
+2025-05-14 16:07:42,811 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:08:58,541 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 16:08:58,631 - INFO -  * Restarting with stat
+2025-05-14 16:09:00,381 - INFO - Запуск веб-сервера...
+2025-05-14 16:09:00,460 - WARNING -  * Debugger is active!
+2025-05-14 16:09:00,467 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:09:13,732 - INFO - Запуск веб-сервера...
+2025-05-14 16:09:13,779 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 16:09:13,779 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 16:09:13,782 - INFO -  * Restarting with stat
+2025-05-14 16:09:14,285 - INFO - Запуск веб-сервера...
+2025-05-14 16:09:14,316 - WARNING -  * Debugger is active!
+2025-05-14 16:09:14,321 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:10:23,169 - INFO - Запуск веб-сервера...
+2025-05-14 16:10:23,214 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 16:10:23,214 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 16:10:23,217 - INFO -  * Restarting with stat
+2025-05-14 16:10:23,710 - INFO - Запуск веб-сервера...
+2025-05-14 16:10:23,744 - WARNING -  * Debugger is active!
+2025-05-14 16:10:23,748 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:11:03,416 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 16:11:03,474 - INFO -  * Restarting with stat
+2025-05-14 16:11:03,687 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 16:11:03,761 - INFO -  * Restarting with stat
+2025-05-14 16:11:04,012 - INFO - Запуск веб-сервера...
+2025-05-14 16:11:04,051 - WARNING -  * Debugger is active!
+2025-05-14 16:11:04,057 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:11:04,279 - INFO - Запуск веб-сервера...
+2025-05-14 16:11:04,310 - WARNING -  * Debugger is active!
+2025-05-14 16:11:04,314 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:11:27,075 - INFO - Запуск веб-сервера...
+2025-05-14 16:11:27,124 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 16:11:27,124 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 16:11:27,127 - INFO -  * Restarting with stat
+2025-05-14 16:11:27,618 - INFO - Запуск веб-сервера...
+2025-05-14 16:11:27,649 - WARNING -  * Debugger is active!
+2025-05-14 16:11:27,653 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:11:41,118 - INFO - 127.0.0.1 - - [14/May/2025 16:11:41] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 16:11:41,475 - INFO - 127.0.0.1 - - [14/May/2025 16:11:41] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 16:11:41,498 - INFO - 127.0.0.1 - - [14/May/2025 16:11:41] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 16:11:41,580 - INFO - 127.0.0.1 - - [14/May/2025 16:11:41] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 16:11:48,524 - INFO - 127.0.0.1 - - [14/May/2025 16:11:48] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 16:11:52,155 - INFO - 127.0.0.1 - - [14/May/2025 16:11:52] "GET /statistics HTTP/1.1" 200 -
+2025-05-14 16:16:15,552 - INFO - 127.0.0.1 - - [14/May/2025 16:16:15] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 16:16:28,506 - INFO - 127.0.0.1 - - [14/May/2025 16:16:28] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 16:16:47,606 - INFO - 127.0.0.1 - - [14/May/2025 16:16:47] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 16:16:49,815 - INFO - 127.0.0.1 - - [14/May/2025 16:16:49] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 16:16:56,809 - INFO - 127.0.0.1 - - [14/May/2025 16:16:56] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 16:17:00,557 - INFO - 127.0.0.1 - - [14/May/2025 16:17:00] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 16:17:06,499 - INFO - 127.0.0.1 - - [14/May/2025 16:17:06] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 16:20:28,756 - INFO - Запуск веб-сервера...
+2025-05-14 16:20:28,804 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 16:20:28,804 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 16:20:28,807 - INFO -  * Restarting with stat
+2025-05-14 16:20:29,301 - INFO - Запуск веб-сервера...
+2025-05-14 16:20:29,332 - WARNING -  * Debugger is active!
+2025-05-14 16:20:29,336 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:21:31,177 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 16:21:31,417 - INFO -  * Restarting with stat
+2025-05-14 16:21:32,247 - INFO - Запуск веб-сервера...
+2025-05-14 16:21:32,278 - WARNING -  * Debugger is active!
+2025-05-14 16:21:32,283 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:22:21,666 - INFO - Запуск веб-сервера...
+2025-05-14 16:22:21,714 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 16:22:21,714 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 16:22:21,716 - INFO -  * Restarting with stat
+2025-05-14 16:22:22,256 - INFO - Запуск веб-сервера...
+2025-05-14 16:22:22,301 - WARNING -  * Debugger is active!
+2025-05-14 16:22:22,308 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:25:42,092 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 16:25:42,214 - INFO -  * Restarting with stat
+2025-05-14 16:25:44,424 - INFO - Запуск веб-сервера...
+2025-05-14 16:25:44,626 - WARNING -  * Debugger is active!
+2025-05-14 16:25:44,634 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:26:00,717 - INFO - Запуск веб-сервера...
+2025-05-14 16:26:00,767 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 16:26:00,767 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 16:26:00,769 - INFO -  * Restarting with stat
+2025-05-14 16:26:01,279 - INFO - Запуск веб-сервера...
+2025-05-14 16:26:01,310 - WARNING -  * Debugger is active!
+2025-05-14 16:26:01,314 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:28:53,718 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 16:28:53,859 - INFO -  * Restarting with stat
+2025-05-14 16:28:55,262 - INFO - Запуск веб-сервера...
+2025-05-14 16:28:55,336 - WARNING -  * Debugger is active!
+2025-05-14 16:28:55,344 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:29:47,540 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 16:29:47,629 - INFO -  * Restarting with stat
+2025-05-14 16:29:48,427 - INFO - Запуск веб-сервера...
+2025-05-14 16:29:48,492 - WARNING -  * Debugger is active!
+2025-05-14 16:29:48,501 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:30:12,130 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\utils.py', reloading
+2025-05-14 16:30:12,236 - INFO -  * Restarting with stat
+2025-05-14 16:30:12,802 - INFO - Запуск веб-сервера...
+2025-05-14 16:30:12,851 - WARNING -  * Debugger is active!
+2025-05-14 16:30:12,857 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:30:23,641 - INFO - Запуск веб-сервера...
+2025-05-14 16:30:23,688 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 16:30:23,688 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 16:30:23,691 - INFO -  * Restarting with stat
+2025-05-14 16:30:24,184 - INFO - Запуск веб-сервера...
+2025-05-14 16:30:24,218 - WARNING -  * Debugger is active!
+2025-05-14 16:30:24,223 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:30:36,761 - INFO - Запуск веб-сервера...
+2025-05-14 16:30:36,809 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 16:30:36,809 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 16:30:36,811 - INFO -  * Restarting with stat
+2025-05-14 16:30:37,298 - INFO - Запуск веб-сервера...
+2025-05-14 16:30:37,331 - WARNING -  * Debugger is active!
+2025-05-14 16:30:37,336 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:31:31,626 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 16:31:31,633 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 16:31:31,721 - INFO -  * Restarting with stat
+2025-05-14 16:31:31,737 - INFO -  * Restarting with stat
+2025-05-14 16:31:33,058 - INFO - Запуск веб-сервера...
+2025-05-14 16:31:33,099 - INFO - Запуск веб-сервера...
+2025-05-14 16:31:33,114 - WARNING -  * Debugger is active!
+2025-05-14 16:31:33,125 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:31:33,195 - WARNING -  * Debugger is active!
+2025-05-14 16:31:33,202 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:31:51,586 - INFO - Запуск веб-сервера...
+2025-05-14 16:31:51,633 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 16:31:51,633 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 16:31:51,635 - INFO -  * Restarting with stat
+2025-05-14 16:31:52,116 - INFO - Запуск веб-сервера...
+2025-05-14 16:31:52,151 - WARNING -  * Debugger is active!
+2025-05-14 16:31:52,156 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:32:36,976 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 16:32:37,039 - INFO -  * Restarting with stat
+2025-05-14 16:32:38,976 - INFO - Запуск веб-сервера...
+2025-05-14 16:32:39,162 - WARNING -  * Debugger is active!
+2025-05-14 16:32:39,169 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:32:57,668 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 16:32:57,725 - INFO -  * Restarting with stat
+2025-05-14 16:33:00,486 - INFO - Запуск веб-сервера...
+2025-05-14 16:33:00,535 - WARNING -  * Debugger is active!
+2025-05-14 16:33:00,540 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:37:52,922 - INFO - Запуск веб-сервера...
+2025-05-14 16:37:52,972 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 16:37:52,972 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 16:37:52,976 - INFO -  * Restarting with stat
+2025-05-14 16:37:53,457 - INFO - Запуск веб-сервера...
+2025-05-14 16:37:53,487 - WARNING -  * Debugger is active!
+2025-05-14 16:37:53,491 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:40:59,933 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\web_server.py', reloading
+2025-05-14 16:41:00,075 - INFO -  * Restarting with stat
+2025-05-14 16:41:01,143 - INFO - Запуск веб-сервера...
+2025-05-14 16:41:01,203 - WARNING -  * Debugger is active!
+2025-05-14 16:41:01,208 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:43:04,803 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 16:43:04,879 - INFO -  * Restarting with stat
+2025-05-14 16:43:05,513 - INFO - Запуск веб-сервера...
+2025-05-14 16:43:05,543 - WARNING -  * Debugger is active!
+2025-05-14 16:43:05,547 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:43:26,473 - INFO - Запуск веб-сервера...
+2025-05-14 16:43:26,521 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 16:43:26,522 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 16:43:26,524 - INFO -  * Restarting with stat
+2025-05-14 16:43:27,040 - INFO - Запуск веб-сервера...
+2025-05-14 16:43:27,070 - WARNING -  * Debugger is active!
+2025-05-14 16:43:27,075 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:44:06,925 - INFO - Запуск веб-сервера...
+2025-05-14 16:44:06,983 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 16:44:06,983 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 16:44:06,986 - INFO -  * Restarting with stat
+2025-05-14 16:44:07,653 - INFO - Запуск веб-сервера...
+2025-05-14 16:44:07,707 - WARNING -  * Debugger is active!
+2025-05-14 16:44:07,714 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:44:31,300 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 16:44:31,370 - INFO -  * Restarting with stat
+2025-05-14 16:44:33,183 - INFO - Запуск веб-сервера...
+2025-05-14 16:44:33,239 - WARNING -  * Debugger is active!
+2025-05-14 16:44:33,245 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:44:40,544 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 16:44:40,642 - INFO -  * Restarting with stat
+2025-05-14 16:44:42,528 - INFO - Запуск веб-сервера...
+2025-05-14 16:44:42,575 - WARNING -  * Debugger is active!
+2025-05-14 16:44:42,580 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:45:14,514 - INFO - Запуск веб-сервера...
+2025-05-14 16:45:14,561 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 16:45:14,561 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 16:45:14,563 - INFO -  * Restarting with stat
+2025-05-14 16:45:15,068 - INFO - Запуск веб-сервера...
+2025-05-14 16:45:15,118 - WARNING -  * Debugger is active!
+2025-05-14 16:45:15,124 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:45:26,896 - INFO - 127.0.0.1 - - [14/May/2025 16:45:26] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 16:45:26,897 - INFO - 127.0.0.1 - - [14/May/2025 16:45:26] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 16:45:27,485 - INFO - 127.0.0.1 - - [14/May/2025 16:45:27] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 16:45:27,518 - INFO - 127.0.0.1 - - [14/May/2025 16:45:27] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 16:45:27,812 - INFO - 127.0.0.1 - - [14/May/2025 16:45:27] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 16:45:27,841 - INFO - 127.0.0.1 - - [14/May/2025 16:45:27] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 16:45:31,375 - INFO - 127.0.0.1 - - [14/May/2025 16:45:31] "GET /actions HTTP/1.1" 200 -
+2025-05-14 16:45:36,343 - INFO - 127.0.0.1 - - [14/May/2025 16:45:36] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 16:45:38,504 - INFO - 127.0.0.1 - - [14/May/2025 16:45:38] "GET /statistics HTTP/1.1" 200 -
+2025-05-14 16:45:43,340 - INFO - 127.0.0.1 - - [14/May/2025 16:45:43] "GET /actions HTTP/1.1" 200 -
+2025-05-14 16:46:00,567 - INFO - 127.0.0.1 - - [14/May/2025 16:46:00] "[31m[1mPOST /actions HTTP/1.1[0m" 400 -
+2025-05-14 16:46:08,763 - INFO - 127.0.0.1 - - [14/May/2025 16:46:08] "[31m[1mPOST /actions HTTP/1.1[0m" 400 -
+2025-05-14 16:46:14,387 - INFO - 127.0.0.1 - - [14/May/2025 16:46:14] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 16:46:24,215 - INFO - 127.0.0.1 - - [14/May/2025 16:46:24] "GET /statistics HTTP/1.1" 200 -
+2025-05-14 16:46:26,061 - INFO - 127.0.0.1 - - [14/May/2025 16:46:26] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 16:51:30,356 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 16:51:30,415 - INFO -  * Restarting with stat
+2025-05-14 16:51:31,065 - INFO - Запуск веб-сервера...
+2025-05-14 16:51:31,108 - WARNING -  * Debugger is active!
+2025-05-14 16:51:31,116 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:51:42,636 - INFO - Запуск веб-сервера...
+2025-05-14 16:51:42,686 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 16:51:42,686 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 16:51:42,688 - INFO -  * Restarting with stat
+2025-05-14 16:51:43,170 - INFO - Запуск веб-сервера...
+2025-05-14 16:51:43,201 - WARNING -  * Debugger is active!
+2025-05-14 16:51:43,205 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:54:16,718 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 16:54:16,812 - INFO -  * Restarting with stat
+2025-05-14 16:54:17,672 - INFO - Запуск веб-сервера...
+2025-05-14 16:54:17,705 - WARNING -  * Debugger is active!
+2025-05-14 16:54:17,709 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:54:40,888 - INFO - Запуск веб-сервера...
+2025-05-14 16:54:40,935 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 16:54:40,935 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 16:54:40,937 - INFO -  * Restarting with stat
+2025-05-14 16:54:41,438 - INFO - Запуск веб-сервера...
+2025-05-14 16:54:41,471 - WARNING -  * Debugger is active!
+2025-05-14 16:54:41,475 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:54:47,134 - INFO - 127.0.0.1 - - [14/May/2025 16:54:47] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 16:54:47,135 - INFO - 127.0.0.1 - - [14/May/2025 16:54:47] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 16:54:51,569 - INFO - 127.0.0.1 - - [14/May/2025 16:54:51] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 16:54:51,574 - INFO - 127.0.0.1 - - [14/May/2025 16:54:51] "GET /actions HTTP/1.1" 200 -
+2025-05-14 16:55:32,102 - INFO - 127.0.0.1 - - [14/May/2025 16:55:32] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 16:55:39,270 - INFO - 127.0.0.1 - - [14/May/2025 16:55:39] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 16:55:43,408 - INFO - 127.0.0.1 - - [14/May/2025 16:55:43] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 16:55:46,143 - INFO - 127.0.0.1 - - [14/May/2025 16:55:46] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 16:55:48,334 - INFO - 127.0.0.1 - - [14/May/2025 16:55:48] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 16:55:51,668 - INFO - 127.0.0.1 - - [14/May/2025 16:55:51] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 16:55:51,684 - INFO - 127.0.0.1 - - [14/May/2025 16:55:51] "GET /actions HTTP/1.1" 200 -
+2025-05-14 16:55:59,509 - INFO - 127.0.0.1 - - [14/May/2025 16:55:59] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 16:56:02,555 - INFO - 127.0.0.1 - - [14/May/2025 16:56:02] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 16:56:05,079 - INFO - 127.0.0.1 - - [14/May/2025 16:56:05] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 16:56:11,118 - INFO - 127.0.0.1 - - [14/May/2025 16:56:11] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 16:56:11,135 - INFO - 127.0.0.1 - - [14/May/2025 16:56:11] "GET /actions HTTP/1.1" 200 -
+2025-05-14 16:57:55,376 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 16:57:55,441 - INFO -  * Restarting with stat
+2025-05-14 16:57:56,004 - INFO - Запуск веб-сервера...
+2025-05-14 16:57:56,034 - WARNING -  * Debugger is active!
+2025-05-14 16:57:56,039 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:57:56,769 - INFO - 127.0.0.1 - - [14/May/2025 16:57:56] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 16:58:10,449 - INFO - Запуск веб-сервера...
+2025-05-14 16:58:10,496 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 16:58:10,496 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 16:58:10,499 - INFO -  * Restarting with stat
+2025-05-14 16:58:11,071 - INFO - Запуск веб-сервера...
+2025-05-14 16:58:11,110 - WARNING -  * Debugger is active!
+2025-05-14 16:58:11,115 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 16:58:21,338 - INFO - 127.0.0.1 - - [14/May/2025 16:58:21] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 16:58:21,342 - INFO - 127.0.0.1 - - [14/May/2025 16:58:21] "GET /actions HTTP/1.1" 200 -
+2025-05-14 16:58:26,097 - INFO - 127.0.0.1 - - [14/May/2025 16:58:26] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 16:58:28,212 - INFO - 127.0.0.1 - - [14/May/2025 16:58:28] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 16:58:49,393 - INFO - 127.0.0.1 - - [14/May/2025 16:58:49] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 17:01:36,636 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 17:01:36,721 - INFO -  * Restarting with stat
+2025-05-14 17:01:37,323 - INFO - Запуск веб-сервера...
+2025-05-14 17:01:37,355 - WARNING -  * Debugger is active!
+2025-05-14 17:01:37,360 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 17:01:44,973 - INFO - Запуск веб-сервера...
+2025-05-14 17:01:45,031 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 17:01:45,032 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 17:01:45,034 - INFO -  * Restarting with stat
+2025-05-14 17:01:45,538 - INFO - Запуск веб-сервера...
+2025-05-14 17:01:45,569 - WARNING -  * Debugger is active!
+2025-05-14 17:01:45,574 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 17:01:59,247 - INFO - 127.0.0.1 - - [14/May/2025 17:01:59] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 17:01:59,253 - INFO - 127.0.0.1 - - [14/May/2025 17:01:59] "GET /actions HTTP/1.1" 200 -
+2025-05-14 17:02:03,576 - INFO - 127.0.0.1 - - [14/May/2025 17:02:03] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 17:02:11,737 - INFO - 127.0.0.1 - - [14/May/2025 17:02:11] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 17:02:35,073 - INFO - 127.0.0.1 - - [14/May/2025 17:02:35] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 17:03:55,429 - INFO - 127.0.0.1 - - [14/May/2025 17:03:55] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 17:09:07,247 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 17:09:07,339 - INFO -  * Restarting with stat
+2025-05-14 17:09:07,976 - INFO - Запуск веб-сервера...
+2025-05-14 17:09:08,006 - WARNING -  * Debugger is active!
+2025-05-14 17:09:08,010 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 17:09:21,992 - INFO - Запуск веб-сервера...
+2025-05-14 17:09:22,040 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 17:09:22,040 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 17:09:22,042 - INFO -  * Restarting with stat
+2025-05-14 17:09:22,550 - INFO - Запуск веб-сервера...
+2025-05-14 17:09:22,600 - WARNING -  * Debugger is active!
+2025-05-14 17:09:22,610 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 17:09:28,746 - INFO - 127.0.0.1 - - [14/May/2025 17:09:28] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 17:09:28,751 - INFO - 127.0.0.1 - - [14/May/2025 17:09:28] "GET /actions HTTP/1.1" 200 -
+2025-05-14 17:09:33,807 - INFO - 127.0.0.1 - - [14/May/2025 17:09:33] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 17:09:36,101 - INFO - 127.0.0.1 - - [14/May/2025 17:09:36] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 17:09:57,856 - INFO - 127.0.0.1 - - [14/May/2025 17:09:57] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 17:12:00,751 - INFO - 127.0.0.1 - - [14/May/2025 17:12:00] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 17:12:34,292 - INFO - 127.0.0.1 - - [14/May/2025 17:12:34] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 17:12:37,442 - INFO - 127.0.0.1 - - [14/May/2025 17:12:37] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 17:12:39,823 - INFO - 127.0.0.1 - - [14/May/2025 17:12:39] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 17:12:42,375 - INFO - 127.0.0.1 - - [14/May/2025 17:12:42] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 17:12:53,881 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 17:12:53,975 - INFO -  * Restarting with stat
+2025-05-14 17:12:55,744 - INFO - Запуск веб-сервера...
+2025-05-14 17:12:55,826 - WARNING -  * Debugger is active!
+2025-05-14 17:12:55,834 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 17:13:04,721 - INFO - Запуск веб-сервера...
+2025-05-14 17:13:04,769 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 17:13:04,769 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 17:13:04,771 - INFO -  * Restarting with stat
+2025-05-14 17:13:05,328 - INFO - Запуск веб-сервера...
+2025-05-14 17:13:05,371 - WARNING -  * Debugger is active!
+2025-05-14 17:13:05,376 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 17:13:11,142 - INFO - 127.0.0.1 - - [14/May/2025 17:13:11] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 17:13:17,601 - INFO - 127.0.0.1 - - [14/May/2025 17:13:17] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 17:13:17,605 - INFO - 127.0.0.1 - - [14/May/2025 17:13:17] "GET /actions HTTP/1.1" 200 -
+2025-05-14 17:14:39,270 - INFO - 127.0.0.1 - - [14/May/2025 17:14:39] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 17:14:47,574 - INFO - 127.0.0.1 - - [14/May/2025 17:14:47] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 17:14:47,578 - INFO - 127.0.0.1 - - [14/May/2025 17:14:47] "GET /actions HTTP/1.1" 200 -
+2025-05-14 17:15:07,799 - INFO - 127.0.0.1 - - [14/May/2025 17:15:07] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 17:15:12,144 - INFO - 127.0.0.1 - - [14/May/2025 17:15:12] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 17:15:14,243 - INFO - 127.0.0.1 - - [14/May/2025 17:15:14] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 17:15:17,367 - INFO - 127.0.0.1 - - [14/May/2025 17:15:17] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 17:15:20,213 - INFO - 127.0.0.1 - - [14/May/2025 17:15:20] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 17:15:27,486 - INFO - 127.0.0.1 - - [14/May/2025 17:15:27] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 17:15:27,490 - INFO - 127.0.0.1 - - [14/May/2025 17:15:27] "GET /actions HTTP/1.1" 200 -
+2025-05-14 17:15:50,767 - INFO - 127.0.0.1 - - [14/May/2025 17:15:50] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 17:15:55,163 - INFO - 127.0.0.1 - - [14/May/2025 17:15:55] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 17:16:03,010 - INFO - 127.0.0.1 - - [14/May/2025 17:16:03] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-14 17:16:44,621 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 17:16:44,686 - INFO -  * Restarting with stat
+2025-05-14 17:16:45,497 - INFO - Запуск веб-сервера...
+2025-05-14 17:16:45,537 - WARNING -  * Debugger is active!
+2025-05-14 17:16:45,543 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 17:16:55,299 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 17:16:55,383 - INFO -  * Restarting with stat
+2025-05-14 17:16:56,647 - INFO - Запуск веб-сервера...
+2025-05-14 17:16:56,695 - WARNING -  * Debugger is active!
+2025-05-14 17:16:56,702 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 17:17:09,452 - INFO - Запуск веб-сервера...
+2025-05-14 17:17:09,506 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 17:17:09,506 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 17:17:09,508 - INFO -  * Restarting with stat
+2025-05-14 17:17:10,049 - INFO - Запуск веб-сервера...
+2025-05-14 17:17:10,078 - WARNING -  * Debugger is active!
+2025-05-14 17:17:10,082 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 17:17:17,596 - INFO - 127.0.0.1 - - [14/May/2025 17:17:17] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 17:17:20,516 - INFO - 127.0.0.1 - - [14/May/2025 17:17:20] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 17:17:26,801 - INFO - 127.0.0.1 - - [14/May/2025 17:17:26] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 17:17:26,805 - INFO - 127.0.0.1 - - [14/May/2025 17:17:26] "GET /actions HTTP/1.1" 200 -
+2025-05-14 17:17:44,926 - INFO - 127.0.0.1 - - [14/May/2025 17:17:44] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 17:24:17,950 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 17:24:18,011 - INFO -  * Restarting with stat
+2025-05-14 17:24:18,646 - INFO - Запуск веб-сервера...
+2025-05-14 17:24:18,685 - WARNING -  * Debugger is active!
+2025-05-14 17:24:18,691 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 17:24:54,724 - INFO - Запуск веб-сервера...
+2025-05-14 17:24:54,771 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 17:24:54,771 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 17:24:54,773 - INFO -  * Restarting with stat
+2025-05-14 17:24:55,282 - INFO - Запуск веб-сервера...
+2025-05-14 17:24:55,312 - WARNING -  * Debugger is active!
+2025-05-14 17:24:55,316 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 17:25:09,144 - INFO - 127.0.0.1 - - [14/May/2025 17:25:09] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 17:25:11,193 - INFO - 127.0.0.1 - - [14/May/2025 17:25:11] "GET /actions HTTP/1.1" 200 -
+2025-05-14 17:27:48,702 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-14 17:27:48,770 - INFO -  * Restarting with stat
+2025-05-14 17:27:49,382 - INFO - Запуск веб-сервера...
+2025-05-14 17:27:49,423 - WARNING -  * Debugger is active!
+2025-05-14 17:27:49,427 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 17:27:58,081 - INFO - Запуск веб-сервера...
+2025-05-14 17:27:58,126 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 17:27:58,127 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 17:27:58,129 - INFO -  * Restarting with stat
+2025-05-14 17:27:58,660 - INFO - Запуск веб-сервера...
+2025-05-14 17:27:58,689 - WARNING -  * Debugger is active!
+2025-05-14 17:27:58,693 - INFO -  * Debugger PIN: 204-779-785
+2025-05-14 17:28:30,055 - INFO - 127.0.0.1 - - [14/May/2025 17:28:30] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 17:28:35,349 - INFO - 127.0.0.1 - - [14/May/2025 17:28:35] "GET /actions HTTP/1.1" 200 -
+2025-05-14 17:29:53,924 - INFO - 127.0.0.1 - - [14/May/2025 17:29:53] "GET /actions HTTP/1.1" 200 -
+2025-05-14 17:29:53,929 - INFO - 127.0.0.1 - - [14/May/2025 17:29:53] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 17:37:06,173 - INFO - 127.0.0.1 - - [14/May/2025 17:37:06] "GET /actions HTTP/1.1" 200 -
+2025-05-14 17:37:06,178 - INFO - 127.0.0.1 - - [14/May/2025 17:37:06] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 17:38:06,819 - INFO - 127.0.0.1 - - [14/May/2025 17:38:06] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 20:00:25,151 - INFO - 127.0.0.1 - - [14/May/2025 20:00:25] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-14 21:15:21,585 - INFO - 127.0.0.1 - - [14/May/2025 21:15:21] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-14 21:15:26,203 - INFO - 127.0.0.1 - - [14/May/2025 21:15:26] "GET /actions HTTP/1.1" 200 -
+2025-05-14 21:17:03,981 - INFO - 127.0.0.1 - - [14/May/2025 21:17:03] "GET /actions HTTP/1.1" 200 -
+2025-05-14 21:17:03,987 - INFO - 127.0.0.1 - - [14/May/2025 21:17:03] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-15 14:17:56,430 - INFO - Запуск веб-сервера...
+2025-05-15 14:17:56,568 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-15 14:17:56,569 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-15 14:17:56,573 - INFO -  * Restarting with stat
+2025-05-15 14:17:57,230 - INFO - Запуск веб-сервера...
+2025-05-15 14:17:57,261 - WARNING -  * Debugger is active!
+2025-05-15 14:17:57,266 - INFO -  * Debugger PIN: 204-779-785
+2025-05-15 14:18:06,561 - INFO - 127.0.0.1 - - [15/May/2025 14:18:06] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-15 14:18:23,960 - INFO - 127.0.0.1 - - [15/May/2025 14:18:23] "GET /actions HTTP/1.1" 200 -
+2025-05-15 14:19:06,388 - INFO - 127.0.0.1 - - [15/May/2025 14:19:06] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-15 14:19:08,947 - INFO - 127.0.0.1 - - [15/May/2025 14:19:08] "[33mGET /users/1285845438 HTTP/1.1[0m" 404 -
+2025-05-15 14:19:26,524 - INFO - 127.0.0.1 - - [15/May/2025 14:19:26] "GET /actions HTTP/1.1" 200 -
+2025-05-15 14:19:43,801 - INFO - 127.0.0.1 - - [15/May/2025 14:19:43] "GET /users/check_username/sigma HTTP/1.1" 200 -
+2025-05-15 14:19:43,807 - INFO - 127.0.0.1 - - [15/May/2025 14:19:43] "[35m[1mPOST /users HTTP/1.1[0m" 201 -
+2025-05-15 14:19:49,204 - INFO - 127.0.0.1 - - [15/May/2025 14:19:49] "GET /users/1285845438 HTTP/1.1" 200 -
+2025-05-15 14:20:43,009 - INFO - 127.0.0.1 - - [15/May/2025 14:20:43] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-15 14:20:48,855 - INFO - 127.0.0.1 - - [15/May/2025 14:20:48] "GET /actions HTTP/1.1" 200 -
+2025-05-15 14:20:59,032 - INFO - 127.0.0.1 - - [15/May/2025 14:20:59] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-15 14:21:13,967 - INFO - 127.0.0.1 - - [15/May/2025 14:21:13] "GET /users/1285845438 HTTP/1.1" 200 -
+2025-05-15 14:21:22,901 - INFO - 127.0.0.1 - - [15/May/2025 14:21:22] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-15 14:21:28,521 - INFO - 127.0.0.1 - - [15/May/2025 14:21:28] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-15 14:21:33,715 - INFO - 127.0.0.1 - - [15/May/2025 14:21:33] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-15 14:21:39,458 - INFO - 127.0.0.1 - - [15/May/2025 14:21:39] "GET /actions HTTP/1.1" 200 -
+2025-05-15 14:22:01,370 - INFO - 127.0.0.1 - - [15/May/2025 14:22:01] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-15 14:22:48,969 - INFO - 127.0.0.1 - - [15/May/2025 14:22:48] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-15 14:22:54,286 - INFO - 127.0.0.1 - - [15/May/2025 14:22:54] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-15 14:22:57,321 - INFO - 127.0.0.1 - - [15/May/2025 14:22:57] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-15 14:22:59,788 - INFO - 127.0.0.1 - - [15/May/2025 14:22:59] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-15 14:23:02,320 - INFO - 127.0.0.1 - - [15/May/2025 14:23:02] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-15 14:23:33,650 - INFO - 127.0.0.1 - - [15/May/2025 14:23:33] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-15 14:23:40,142 - INFO - 127.0.0.1 - - [15/May/2025 14:23:40] "GET /actions HTTP/1.1" 200 -
+2025-05-15 14:23:55,242 - INFO - 127.0.0.1 - - [15/May/2025 14:23:55] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-15 14:23:58,505 - INFO - 127.0.0.1 - - [15/May/2025 14:23:58] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-15 14:25:25,996 - INFO - 127.0.0.1 - - [15/May/2025 14:25:25] "[35m[1mPOST /actions HTTP/1.1[0m" 201 -
+2025-05-15 14:27:18,381 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-15 14:27:18,663 - INFO -  * Restarting with stat
+2025-05-15 14:27:22,570 - INFO - Запуск веб-сервера...
+2025-05-15 14:27:22,629 - WARNING -  * Debugger is active!
+2025-05-15 14:27:22,654 - INFO -  * Debugger PIN: 204-779-785
+2025-05-15 14:27:35,146 - INFO - Запуск веб-сервера...
+2025-05-15 14:27:35,192 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-15 14:27:35,192 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-15 14:27:35,194 - INFO -  * Restarting with stat
+2025-05-15 14:27:35,679 - INFO - Запуск веб-сервера...
+2025-05-15 14:27:35,711 - WARNING -  * Debugger is active!
+2025-05-15 14:27:35,718 - INFO -  * Debugger PIN: 204-779-785
+2025-05-15 14:28:27,706 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-15 14:28:28,348 - INFO -  * Restarting with stat
+2025-05-15 14:28:29,993 - INFO - Запуск веб-сервера...
+2025-05-15 14:28:30,045 - WARNING -  * Debugger is active!
+2025-05-15 14:28:30,052 - INFO -  * Debugger PIN: 204-779-785
+2025-05-15 14:28:50,696 - INFO - Запуск веб-сервера...
+2025-05-15 14:28:50,746 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-15 14:28:50,746 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-15 14:28:50,748 - INFO -  * Restarting with stat
+2025-05-15 14:28:51,244 - INFO - Запуск веб-сервера...
+2025-05-15 14:28:51,277 - WARNING -  * Debugger is active!
+2025-05-15 14:28:51,282 - INFO -  * Debugger PIN: 204-779-785
+2025-05-15 14:28:56,334 - INFO - 127.0.0.1 - - [15/May/2025 14:28:56] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-15 14:28:56,529 - INFO - 127.0.0.1 - - [15/May/2025 14:28:56] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-15 14:31:34,180 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-15 14:31:34,283 - INFO -  * Restarting with stat
+2025-05-15 14:31:34,846 - INFO - Запуск веб-сервера...
+2025-05-15 14:31:34,879 - WARNING -  * Debugger is active!
+2025-05-15 14:31:34,884 - INFO -  * Debugger PIN: 204-779-785
+2025-05-15 14:31:43,273 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-15 14:31:44,173 - INFO -  * Restarting with stat
+2025-05-15 14:31:46,108 - INFO - Запуск веб-сервера...
+2025-05-15 14:31:46,145 - WARNING -  * Debugger is active!
+2025-05-15 14:31:46,151 - INFO -  * Debugger PIN: 204-779-785
+2025-05-15 14:31:55,973 - INFO - Запуск веб-сервера...
+2025-05-15 14:31:56,026 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-15 14:31:56,026 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-15 14:31:56,031 - INFO -  * Restarting with stat
+2025-05-15 14:31:56,705 - INFO - Запуск веб-сервера...
+2025-05-15 14:31:56,736 - WARNING -  * Debugger is active!
+2025-05-15 14:31:56,741 - INFO -  * Debugger PIN: 204-779-785
+2025-05-15 14:32:23,507 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-15 14:32:23,584 - INFO -  * Restarting with stat
+2025-05-15 14:32:24,553 - INFO - Запуск веб-сервера...
+2025-05-15 14:32:24,619 - WARNING -  * Debugger is active!
+2025-05-15 14:32:24,626 - INFO -  * Debugger PIN: 204-779-785
+2025-05-15 14:34:01,213 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\utils.py', reloading
+2025-05-15 14:34:01,304 - INFO -  * Restarting with stat
+2025-05-15 14:34:02,162 - INFO - Запуск веб-сервера...
+2025-05-15 14:34:02,197 - WARNING -  * Debugger is active!
+2025-05-15 14:34:02,204 - INFO -  * Debugger PIN: 204-779-785
+2025-05-15 14:35:50,977 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\eco_action_bot.py', reloading
+2025-05-15 14:35:51,115 - INFO -  * Restarting with stat
+2025-05-15 14:35:52,306 - INFO - Запуск веб-сервера...
+2025-05-15 14:35:52,374 - WARNING -  * Debugger is active!
+2025-05-15 14:35:52,384 - INFO -  * Debugger PIN: 204-779-785
+2025-05-15 14:35:59,764 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\web_server.py', reloading
+2025-05-15 14:36:00,295 - INFO -  * Restarting with stat
+2025-05-15 14:36:01,525 - INFO - Запуск веб-сервера...
+2025-05-15 14:36:01,560 - WARNING -  * Debugger is active!
+2025-05-15 14:36:01,565 - INFO -  * Debugger PIN: 204-779-785
+2025-05-15 14:36:12,739 - INFO - Запуск веб-сервера...
+2025-05-15 14:36:12,797 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-15 14:36:12,797 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-15 14:36:12,799 - INFO -  * Restarting with stat
+2025-05-15 14:36:13,305 - INFO - Запуск веб-сервера...
+2025-05-15 14:36:13,342 - WARNING -  * Debugger is active!
+2025-05-15 14:36:13,348 - INFO -  * Debugger PIN: 204-779-785
+2025-05-15 14:36:20,184 - INFO - 127.0.0.1 - - [15/May/2025 14:36:20] "GET /users/1611516990 HTTP/1.1" 200 -
+2025-05-15 14:36:25,562 - INFO - 127.0.0.1 - - [15/May/2025 14:36:25] "GET /users/7192158675 HTTP/1.1" 200 -
+2025-05-15 14:36:32,014 - INFO - 127.0.0.1 - - [15/May/2025 14:36:32] "GET /actions HTTP/1.1" 200 -
+2025-05-15 14:39:42,885 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\web_server.py', reloading
+2025-05-15 14:39:43,018 - INFO -  * Restarting with stat
+2025-05-15 14:39:44,586 - INFO - Запуск веб-сервера...
+2025-05-15 14:39:44,640 - WARNING -  * Debugger is active!
+2025-05-15 14:39:44,648 - INFO -  * Debugger PIN: 204-779-785
+2025-05-15 14:41:40,834 - INFO - Запуск веб-сервера...
+2025-05-15 14:41:40,882 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-15 14:41:40,883 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-15 14:41:40,885 - INFO -  * Restarting with stat
+2025-05-15 14:41:41,436 - INFO - Запуск веб-сервера...
+2025-05-15 14:41:41,476 - WARNING -  * Debugger is active!
+2025-05-15 14:41:41,482 - INFO -  * Debugger PIN: 204-779-785
+2025-05-15 14:42:32,052 - INFO - Запуск веб-сервера...
+2025-05-15 14:42:32,098 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-15 14:42:32,098 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-15 14:42:32,101 - INFO -  * Restarting with stat
+2025-05-15 14:42:32,592 - INFO - Запуск веб-сервера...
+2025-05-15 14:42:32,625 - WARNING -  * Debugger is active!
+2025-05-15 14:42:32,630 - INFO -  * Debugger PIN: 204-779-785
+2025-05-15 14:43:49,072 - INFO -  * Detected change in 'C:\\Users\\Karim\\PycharmProjects\\tg_bot_project\\web_server.py', reloading
+2025-05-15 14:43:49,173 - INFO -  * Restarting with stat
+2025-05-15 14:43:50,111 - INFO - Запуск веб-сервера...
+2025-05-15 14:43:50,167 - WARNING -  * Debugger is active!
+2025-05-15 14:43:50,175 - INFO -  * Debugger PIN: 204-779-785
