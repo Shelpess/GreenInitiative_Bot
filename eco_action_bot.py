@@ -17,6 +17,7 @@ logging.basicConfig(filename='eco_action_bot.log', level=logging.INFO,
 # --- Инициализация бота ---
 bot = telebot.TeleBot(BOT_TOKEN)
 
+
 # --- Состояния пользователя ---
 user_states = {}
 
